@@ -1,0 +1,5 @@
+# Node Dependencies
+node_modules
+
+# dev.json
+dap/config/development.json
